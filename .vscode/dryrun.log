@@ -1,6 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/clock/Work/Sources/github/xorg-xrandr'
-make: Leaving directory '/home/clock/Work/Sources/github/xorg-xrandr'
- 
-make: *** No targets specified and no makefile found.  Stop.
-

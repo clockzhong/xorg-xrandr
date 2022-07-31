@@ -24,3 +24,15 @@ For more information on the git code manager, see:
 
         http://wiki.x.org/wiki/GitPage
 
+
+Run the following command in this dir:
+autoreconf --install
+mkdir build
+cd build
+../configure CXXFLAGS="-g "
+
+Then use vscode to open this project as the following:
+
+code .
+
+Then you could source debug this project.
